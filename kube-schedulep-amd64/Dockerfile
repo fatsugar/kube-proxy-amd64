@@ -1,0 +1,1 @@
+FROM gcp.io/google_containers/kube-schedulep-amd64:v1.7.0
